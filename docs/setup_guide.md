@@ -72,7 +72,7 @@ LM358 Output → 100Ω Resistor → Output Jack
 2. Install [PlatformIO IDE](https://platformio.org/install/ide?install=vscode)
 3. Clone repository:
    ```bash
-   git clone https://github.com//ESP32-Advanced-DDS-Signal-Generator.git
+   git clone https://github.com/Customize5773/ESP32-Advanced-DDS-Signal-Generator.git
    ```
 4. Open project in VSCode
 
