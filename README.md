@@ -1,6 +1,6 @@
 # ESP32-DDS-Signal-Generator
 
-![]()
+![Scheme of a DDS system](docs/image/Schem_of_a_DDS_system.jpg)
 
 ## Overview
 The ESP32 "Advanced" DDS Signal Generator is a precision waveform generator built around the ESP32 microcontroller. It implements Direct Digital Synthesis (DDS) techniques to produce stable, configurable waveforms with professional-grade features. This project combines hardware design with robust software architecture to create a versatile instrument suitable for electronics testing, education, and embedded systems development.
@@ -36,14 +36,14 @@ The ESP32 "Advanced" DDS Signal Generator is a precision waveform generator buil
 ## Setup Instructions
 
 ### 1. Hardware Assembly
-1. Connect components according to the schematic in `/documentation`
+1. Connect components according to the schematic in `docs/setup_guide.md`
 2. Ensure proper power filtering near analog components
 3. Verify all connections with multimeter before powering
 
 ### 2. Software Installation
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/ESP32-Advanced-DDS-Signal-Generator.git
+git clone https://github.com/Customize5773/ESP32-DDS-Signal-Generator.git
 
 # Install required tools
 pip install esptool adafruit-ampy
