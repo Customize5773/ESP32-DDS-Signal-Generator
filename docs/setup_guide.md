@@ -24,7 +24,7 @@
 ## Step 2: Circuit Assembly
 
 ![Logic_Analyzer_on_ESP32](https://github.com/user-attachments/assets/625c3aa5-035d-4d08-b07c-89969b6ad410)
-> by [AZDelivery](https://www.instructables.com/member/AZDelivery/)
+> Source image by [AZDelivery](https://www.instructables.com/member/AZDelivery/)
 
 ### Power Connections:
 1. Connect USB 5V to LM1117-3.3 input
