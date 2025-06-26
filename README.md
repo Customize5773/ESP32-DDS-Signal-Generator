@@ -122,3 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ESP32 hardware abstraction based on MicroPython
 - DDS algorithm inspiration from Analog Devices AD9833 documentation
 - Web interface using MicroPython's AsyncWebServer implementation
+
+## Inspired by AZDelivery on instructables
